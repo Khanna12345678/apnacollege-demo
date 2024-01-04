@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first Repository
 <br>
-Author-Nitesh Khanna
+Author-Nitesh Khanna(sonu)
 
